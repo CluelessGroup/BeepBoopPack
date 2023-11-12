@@ -5,6 +5,10 @@ file = "config/roughlyenoughitems/config.json5"
 hash = "c3637095a26ab03fd9a741796f6a83e000d2030245fb86fa7ed3285b5a6cee3d"
 
 [[files]]
+file = "install-mods.ps1"
+hash = "69452a14242de0f47b6a1a9d2e78bd83a3647ea9657322baf2448c6ebb8bc1d9"
+
+[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "80920b022c9527df26a428ce471a628c5b8760a085d6545a7cddadd5a4b3a838"
 metafile = true
@@ -477,11 +481,6 @@ metafile = true
 [[files]]
 file = "mods/roughly-enough-loot-tables.pw.toml"
 hash = "d6696013c9c6bafa947b8e998124080bb41c97fe89d1c91098ca1dbec3350e37"
-metafile = true
-
-[[files]]
-file = "mods/roughly-enough-resources.pw.toml"
-hash = "6f46cfcca55777b06ce0bf646a815aed4fbc4eb19e21e055a8e6528e41397278"
 metafile = true
 
 [[files]]
