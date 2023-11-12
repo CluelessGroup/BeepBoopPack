@@ -1,0 +1,13 @@
+name = "BeepBoopPack"
+author = "LosBehinderos"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "791633de13dda480f5b2ccb4a9dfb16ce0af5bb80bab846b992853b2a2545533"
+
+[versions]
+fabric = "0.14.24"
+minecraft = "1.19.2"

@@ -1,0 +1,13 @@
+name = "LevelZ"
+filename = "levelz-1.4.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EFtixeiF/versions/2Z4uv615/levelz-1.4.9.jar"
+hash-format = "sha1"
+hash = "90d50d2ed5d672b14f55d2bb068ab8b39fd09a9f"
+
+[update]
+[update.modrinth]
+mod-id = "EFtixeiF"
+version = "2Z4uv615"

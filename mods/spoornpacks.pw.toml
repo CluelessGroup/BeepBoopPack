@@ -1,0 +1,13 @@
+name = "SpoornPacks"
+filename = "spoornpacks-4.3.3-1.19.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/40ytxGF2/versions/U4SgnNZ3/spoornpacks-4.3.3-1.19.1.jar"
+hash-format = "sha1"
+hash = "58d3b3b4b01688466b7fce97226a668eae0eecce"
+
+[update]
+[update.modrinth]
+mod-id = "40ytxGF2"
+version = "U4SgnNZ3"

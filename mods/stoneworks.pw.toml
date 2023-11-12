@@ -1,0 +1,13 @@
+name = "Stoneworks"
+filename = "Stoneworks-v4.0.1-1.19.2-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FzyTKtVF/versions/DdT1vZOS/Stoneworks-v4.0.1-1.19.2-Fabric.jar"
+hash-format = "sha1"
+hash = "6d3086aba9c9c77c1726262a9df450646274088b"
+
+[update]
+[update.modrinth]
+mod-id = "FzyTKtVF"
+version = "DdT1vZOS"

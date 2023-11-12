@@ -1,0 +1,13 @@
+name = "Modern Elevators and Escalators"
+filename = "Modern-Elevators-Escalators-fabric-1.19.2-3.1.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VmZO1Bdj/versions/XWEEBacE/Modern-Elevators-Escalators-fabric-1.19.2-3.1.6.jar"
+hash-format = "sha1"
+hash = "f65651a084465bbf9c9b2a6aaeb7f1ec50d28f19"
+
+[update]
+[update.modrinth]
+mod-id = "VmZO1Bdj"
+version = "XWEEBacE"
