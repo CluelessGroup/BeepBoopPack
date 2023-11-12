@@ -4,3 +4,4 @@
 # Exclude README
 /README.md
 /import_from_mrpack.sh
+/install-mods.ps1
